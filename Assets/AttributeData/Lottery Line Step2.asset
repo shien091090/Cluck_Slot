@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8df738690c50e349a97db9c5167e105, type: 3}
+  m_Name: Lottery Line Step2
+  m_EditorClassIdentifier: 
+  lotteryLineLevelList:
+  - levelNumber: 1
+    lineColor: {r: 0.23529413, g: 0.5254902, b: 0.43921572, a: 1}
+    inactiveColor: {r: 0.5879761, g: 0.6886792, b: 0.65913963, a: 1}
+    thickness: 0.15
+    lines:
+    - coordinates:
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      - {x: 2, y: 0}
+      - {x: 3, y: 0}
+      - {x: 4, y: 0}
+  - levelNumber: 2
+    lineColor: {r: 0.454902, g: 0.54509807, b: 0.11764707, a: 1}
+    inactiveColor: {r: 0.6509842, g: 0.6981132, b: 0.48406908, a: 1}
+    thickness: 0.15
+    lines:
+    - coordinates:
+      - {x: 0, y: 1}
+      - {x: 1, y: 1}
+      - {x: 2, y: 1}
+      - {x: 3, y: 1}
+      - {x: 4, y: 1}
+    - coordinates:
+      - {x: 0, y: -1}
+      - {x: 1, y: -1}
+      - {x: 2, y: -1}
+      - {x: 3, y: -1}
+      - {x: 4, y: -1}
+  - levelNumber: 3
+    lineColor: {r: 0.5254902, g: 0.45882356, b: 0.1764706, a: 1}
+    inactiveColor: {r: 0.6415094, g: 0.6203611, b: 0.52954787, a: 1}
+    thickness: 0.15
+    lines:
+    - coordinates:
+      - {x: 0, y: 2}
+      - {x: 1, y: 2}
+      - {x: 2, y: 2}
+      - {x: 3, y: 2}
+      - {x: 4, y: 2}
+    - coordinates:
+      - {x: 0, y: -2}
+      - {x: 1, y: -2}
+      - {x: 2, y: -2}
+      - {x: 3, y: -2}
+      - {x: 4, y: -2}
+  - levelNumber: 4
+    lineColor: {r: 0.4509804, g: 0.19169313, b: 0.18431374, a: 1}
+    inactiveColor: {r: 0.6886792, g: 0.6224246, b: 0.620461, a: 1}
+    thickness: 0.2
+    lines:
+    - coordinates:
+      - {x: 0, y: 2}
+      - {x: 1, y: 1}
+      - {x: 2, y: 0}
+      - {x: 3, y: -1}
+      - {x: 4, y: -2}
+    - coordinates:
+      - {x: 0, y: -2}
+      - {x: 1, y: -1}
+      - {x: 2, y: 0}
+      - {x: 3, y: 1}
+      - {x: 4, y: 2}

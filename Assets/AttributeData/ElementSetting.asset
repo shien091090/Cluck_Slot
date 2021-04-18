@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1092e7d1dd79c9f47b03a144f8df3cbb, type: 3}
+  m_Name: ElementSetting
+  m_EditorClassIdentifier: 
+  maxAmount: 30
+  m_data:
+  - imgType: 0
+    property: 0
+    blockSprite: {fileID: 21300000, guid: 4134156c14d3332448de02e0c33ceb04, type: 3}
+    simpleSprite: {fileID: 21300000, guid: a4b98fd63c315c04eb9032216f668ef3, type: 3}
+    amount: 9
+  - imgType: 1
+    property: 0
+    blockSprite: {fileID: 21300000, guid: 5d67f11516ee38744aa6153ec4399a04, type: 3}
+    simpleSprite: {fileID: 21300000, guid: 8a60bdbf6fab0fa45a687a63a259ebe3, type: 3}
+    amount: 7
+  - imgType: 2
+    property: 0
+    blockSprite: {fileID: 21300000, guid: fbaf867d4f4cfa04094ec13d461b729e, type: 3}
+    simpleSprite: {fileID: 21300000, guid: c3e21f392e67561468c9567e345dbeef, type: 3}
+    amount: 4
+  - imgType: 3
+    property: 1
+    blockSprite: {fileID: 21300000, guid: aea5c6b2ae7fa0146ba4cb6c4ac07f42, type: 3}
+    simpleSprite: {fileID: 21300000, guid: 1e956b6cd1e3a824fa283b56cbfd913a, type: 3}
+    amount: 2
+  - imgType: 4
+    property: 0
+    blockSprite: {fileID: 21300000, guid: c89326e2d9c3e8a42842b1a96dc1f997, type: 3}
+    simpleSprite: {fileID: 21300000, guid: 92393a213d6ef1d42ae2d65ebec5b4a3, type: 3}
+    amount: 4
+  - imgType: 5
+    property: 0
+    blockSprite: {fileID: 21300000, guid: c4249d7b488a72943923621c099e2830, type: 3}
+    simpleSprite: {fileID: 21300000, guid: 0ee43b14bc1988a41a27774c816775ef, type: 3}
+    amount: 3
+  - imgType: 6
+    property: 0
+    blockSprite: {fileID: 21300000, guid: 5a086c8b4d7e2b647b07f5aade3e7c73, type: 3}
+    simpleSprite: {fileID: 21300000, guid: 6a81ac6c0c778324697f6af49e55f4b6, type: 3}
+    amount: 2
+  - imgType: 7
+    property: 0
+    blockSprite: {fileID: 21300000, guid: a3914bbd6be9ef44aa4287413a884f23, type: 3}
+    simpleSprite: {fileID: 21300000, guid: 8d2f36823ccc51b4497a27a5c80996f7, type: 3}
+    amount: 1

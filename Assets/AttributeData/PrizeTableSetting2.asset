@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c65bf91662713ca4b9285d764ff09d8b, type: 3}
+  m_Name: PrizeTableSetting2
+  m_EditorClassIdentifier: 
+  m_data:
+  - combinations: 000000000000000000000000
+    prizeMoney: 100
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 00000000000000000000000000000000
+    prizeMoney: 400
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 0000000000000000000000000000000000000000
+    prizeMoney: 2000
+    freeOrder: 0
+    prizeLineType: 1
+  - combinations: 010000000100000001000000
+    prizeMoney: 120
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 01000000010000000100000001000000
+    prizeMoney: 480
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 0100000001000000010000000100000001000000
+    prizeMoney: 2400
+    freeOrder: 0
+    prizeLineType: 1
+  - combinations: 020000000200000002000000
+    prizeMoney: 150
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 02000000020000000200000002000000
+    prizeMoney: 600
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 0200000002000000020000000200000002000000
+    prizeMoney: 3000
+    freeOrder: 0
+    prizeLineType: 1
+  - combinations: 040000000400000004000000
+    prizeMoney: 200
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 04000000040000000400000004000000
+    prizeMoney: 800
+    freeOrder: 0
+    prizeLineType: 0
+  - combinations: 0400000004000000040000000400000004000000
+    prizeMoney: 4000
+    freeOrder: 0
+    prizeLineType: 1
+  - combinations: 0500000005000000050000000500000005000000
+    prizeMoney: 7500
+    freeOrder: 0
+    prizeLineType: 1
+  - combinations: 0600000006000000060000000600000006000000
+    prizeMoney: 15000
+    freeOrder: 0
+    prizeLineType: 1
+  - combinations: 0700000007000000070000000700000007000000
+    prizeMoney: 30000
+    freeOrder: 0
+    prizeLineType: 1
+  - combinations: 0000000001000000020000000400000005000000
+    prizeMoney: 333
+    freeOrder: 1
+    prizeLineType: 0
